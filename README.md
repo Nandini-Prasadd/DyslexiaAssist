@@ -2,7 +2,7 @@
 
 Dyslexia Assist is a *Chrome extension* designed to help users with *dyslexia* read and understand text more easily.  
 It provides *text simplification* and *text-to-speech (TTS)* functionalities directly on any website.  
-The system also includes a *backend server* to store *user preferences, manage **authentication, and handle **API calls* for text simplification and TTS.
+The system also includes a *backend server* to store *user preferences, manage authentication, and handle API calls* for text simplification and TTS.
 
 ---
 

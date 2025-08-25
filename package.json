@@ -1,0 +1,19 @@
+{
+  "name": "dyslexiaassist",
+  "version": "1.0.0",
+  "description": "Extension for Dyslexic People",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandini-Prasadd/DyslexiaAssist.git"
+  },
+  "author": "Nandini and Abhijaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandini-Prasadd/DyslexiaAssist/issues"
+  },
+  "homepage": "https://github.com/Nandini-Prasadd/DyslexiaAssist#readme"
+}
